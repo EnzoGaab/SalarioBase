@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="lblValorsalariobase" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="txtValorsalariobase" alignment="0" min="-2" pref="128" max="-2" attributes="0"/>
+                          <Component id="txtDescontoaplicadoir" alignment="0" min="-2" pref="128" max="-2" attributes="0"/>
+                          <Component id="lblDescontoaplicadodoir" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="txtDescontoaplicadoinss" alignment="0" min="-2" pref="125" max="-2" attributes="0"/>
+                          <Component id="lblDescontoaplicadoinss" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="31" max="32767" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="lblValordaclasse" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="69" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="txtValordaclasse" min="-2" pref="87" max="-2" attributes="0"/>
+                                  <Component id="txtSalariobruto" min="-2" pref="84" max="-2" attributes="0"/>
+                                  <Component id="lblSalariobruto" min="-2" max="-2" attributes="0"/>
+                                  <Component id="txtSalarioliquido" min="-2" pref="84" max="-2" attributes="0"/>
+                                  <Component id="lblSalarioliquido" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="txtTotaldosbeneficiosaplicados" alignment="0" min="-2" pref="205" max="-2" attributes="0"/>
+                          <Component id="lblTotaldosbeneficiosaplicados" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                                      <Component id="txtValordobeneficiodovalealealimentacao" min="-2" pref="205" max="-2" attributes="0"/>
+                                      <Component id="lblValordobeneficiodovalealimentacao" min="-2" max="-2" attributes="0"/>
+                                      <Component id="lblValordobeneficiodovaletransporte" alignment="1" min="-2" pref="205" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Component id="txtValordobeneficiodovaletransporte" alignment="0" min="-2" pref="205" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="38" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="lblTotaldedescontosaplicados" max="32767" attributes="0"/>
+                                  <Component id="txtTotaldedescontosaplicados" max="32767" attributes="0"/>
+                                  <Component id="lblValorfilhos" min="-2" max="-2" attributes="0"/>
+                                  <Component id="txtValorfilhos" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="154" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="lblSalariobase" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="txtSalariobase" alignment="0" min="-2" pref="65" max="-2" attributes="0"/>
+                          <Component id="cbPossuifilhos" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="lblPossuifilhos" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="lblClasses" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="cbClasses" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="btnCalcular" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="lblSalariobase" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="txtSalariobase" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="lblPossuifilhos" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="cbPossuifilhos" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="lblClasses" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="cbClasses" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+              <Component id="btnCalcular" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblValorsalariobase" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblValordaclasse" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblValordobeneficiodovalealimentacao" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblTotaldedescontosaplicados" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="txtValorsalariobase" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtValordaclasse" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtValordobeneficiodovalealealimentacao" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtTotaldedescontosaplicados" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblValordobeneficiodovaletransporte" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblDescontoaplicadodoir" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblSalariobruto" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblValorfilhos" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="txtValordobeneficiodovaletransporte" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtDescontoaplicadoir" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtSalariobruto" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtValorfilhos" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblTotaldosbeneficiosaplicados" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblDescontoaplicadoinss" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblSalarioliquido" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="txtTotaldosbeneficiosaplicados" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="txtSalarioliquido" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="txtDescontoaplicadoinss" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace min="0" pref="132" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="lblSalariobase">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Sal&#xe1;rio base"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtSalariobase">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblPossuifilhos">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Possui filhos"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="cbPossuifilhos">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="2">
+            <StringItem index="0" value="Sim"/>
+            <StringItem index="1" value="N&#xe3;o"/>
+          </StringArray>
+        </Property>
+        <Property name="selectedIndex" type="int" value="-1"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblClasses">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Classes"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="cbClasses">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="3">
+            <StringItem index="0" value="Classe 1"/>
+            <StringItem index="1" value="Classe 2"/>
+            <StringItem index="2" value="Classe 3"/>
+          </StringArray>
+        </Property>
+        <Property name="selectedIndex" type="int" value="-1"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnCalcular">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Calcular"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnCalcularActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblValorsalariobase">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Valor do sal&#xe1;rio base"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtValorsalariobase">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblValordaclasse">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Valor da classe"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtValordaclasse">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblValordobeneficiodovalealimentacao">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Valor do beneficio do vale alimenta&#xe7;&#xe3;o"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtValordobeneficiodovalealealimentacao">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblValordobeneficiodovaletransporte">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Valor do beneficio do vale transporte"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtValordobeneficiodovaletransporte">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblTotaldosbeneficiosaplicados">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Total dos beneficios aplicados"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtTotaldosbeneficiosaplicados">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblDescontoaplicadodoir">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Desconto aplicado do IR"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtDescontoaplicadoir">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblDescontoaplicadoinss">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Desconto aplicado INSS"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtDescontoaplicadoinss">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblSalariobruto">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Sal&#xe1;rio bruto"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtSalariobruto">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblSalarioliquido">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Sal&#xe1;rio Liquido"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtSalarioliquido">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblTotaldedescontosaplicados">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Total de descontos aplicados"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtTotaldedescontosaplicados">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblValorfilhos">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Valor do beneficio filhos"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtValorfilhos">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
